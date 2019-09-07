@@ -57,6 +57,9 @@ int main(void) {
     /* Enter an infinite loop, just incrementing a counter. */
     while(1) {
         i++ ;
+
+        //prueba
     }
+
     return 0 ;
 }
